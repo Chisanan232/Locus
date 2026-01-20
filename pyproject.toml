@@ -23,7 +23,14 @@ classifiers = [
     "Programming Language :: Python :: 3.13",
     "Programming Language :: Python :: 3.14",
 ]
-dependencies = []
+dependencies = [
+    # Web application framework
+    "fastapi>=0.128.0",
+    "pydantic>=2.12.5",
+    "pydantic-ai>=1.40.0",
+    "sqlmodel>=0.0.31",
+    "uvicorn>=0.40.0",
+]
 
 [project.urls]
 Homepage = "https://github.com/Chisanan232/Template-Python-UV-Project"
