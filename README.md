@@ -1,3 +1,18 @@
+> ## 🗄️ Archived — 2026-09-24
+>
+> This repository is **archived and read-only**.
+>
+> Locus was a proof of concept for a map-UI-driven travel AI agent. The POC is
+> finished and the repository is no longer maintained or updated.
+>
+> Note that the README below was never filled in beyond the project template, so
+> it does not describe this project. No package was published from this
+> repository, and no successor project is being maintained in its place. Open
+> dependency-update pull requests were closed unmerged when the repository was
+> archived.
+
+---
+
 # Your lib name
 
 ## Overview
